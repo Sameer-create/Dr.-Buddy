@@ -7,9 +7,9 @@
 <a href="https://avishkar.mnnit.ac.in"/> <a href="https://imgbb.com/"><img src="https://i.ibb.co/gMGW0tV/Made-at-avishkar-2021.png" alt="Made-at-avishkar-2021" border="0"></a></a>
 
 ### Team name : intern_lite_hai
-1. Divyansh Bansal
-2. Nayan Chudasama
-3. Sameer Singh
+1. Sameer Singh
+2. Divyansh Bansal 
+3. Nayan Chudasama
 
 
 
